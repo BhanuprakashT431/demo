@@ -1,4 +1,4 @@
 # demo
 this is my gitrepository
 <br>
-by- Bhanu prakash
+by- Bhanu prakash T
